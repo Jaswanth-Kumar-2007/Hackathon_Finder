@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-canvas font-sans text-ink antialiased;
+    overflow-x: hidden;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    background: rgb(123 140 255 / 0.35);
+  }
+  :focus-visible {
+    outline: 2px solid #7b8cff;
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  h1, h2, h3 {
+    @apply tracking-tight;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+  .surface {
+    @apply rounded-xl border border-line bg-surface shadow-card;
+  }
+  .input {
+    @apply h-11 w-full rounded-lg border border-line bg-canvas px-3.5 text-[15px] text-ink placeholder:text-faint transition-colors duration-150 hover:border-line-strong focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/30;
+  }
+  .input-error {
+    @apply border-rose/70 focus:border-rose focus:ring-rose/25;
+  }
+  .kbd {
+    @apply inline-flex h-6 min-w-6 items-center justify-center rounded-md border border-line-strong bg-raised px-1.5 font-mono text-[11px] text-muted;
+  }
+  .skeleton {
+    @apply relative overflow-hidden rounded-md bg-raised;
+  }
+  .skeleton::after {
+    content: '';
+    @apply absolute inset-0 -translate-x-full animate-shimmer;
+    background: linear-gradient(90deg, transparent, rgb(255 255 255 / 0.06), transparent);
+  }
+  .bg-grid {
+    background-image:
+      linear-gradient(to right, rgb(120 131 171 / 0.12) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(120 131 171 / 0.12) 1px, transparent 1px);
+    background-size: 44px 44px;
+    mask-image: radial-gradient(ellipse 70% 60% at 50% 0%, #000 30%, transparent 75%);
+    -webkit-mask-image: radial-gradient(ellipse 70% 60% at 50% 0%, #000 30%, transparent 75%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .skeleton::after {
+    display: none;
+  }
+}

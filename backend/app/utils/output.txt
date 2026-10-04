@@ -1,0 +1,498 @@
+{
+    "search_metadata": {
+        "id": "6abcd133a688557be4584000",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/LskiHMuIvqiWcQxNTCTcLLugh3rd5Rt5pU4Rwe0aGi8/6abcd133a688557be4584000.json",
+        "markdown_endpoint": "https://serpapi.com/searches/LskiHMuIvqiWcQxNTCTcLLugh3rd5Rt5pU4Rwe0aGi8/6abcd133a688557be4584000.md",
+        "pixel_position_endpoint": "https://serpapi.com/searches/LskiHMuIvqiWcQxNTCTcLLugh3rd5Rt5pU4Rwe0aGi8/6abcd133a688557be4584000.json_with_pixel_position",
+        "created_at": "2026-09-30 09:06:59 UTC",
+        "processed_at": "2026-09-30 09:06:59 UTC",
+        "google_url": "https://www.google.com/search?q=Online+Hackathons&oq=Online+Hackathons&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/LskiHMuIvqiWcQxNTCTcLLugh3rd5Rt5pU4Rwe0aGi8/6abcd133a688557be4584000.html",
+        "total_time_taken": 0.38
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Online Hackathons",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Online Hackathons",
+        "total_results": 123000,
+        "time_taken_displayed": 0.19,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Can a hackathon be online?",
+            "type": "ai_overview",
+            "page_token": "ifznQnicHdBdToMwAADgeJk9jgJjhiWLCfIzySih0AJ9MdAOipQfB8rGm3fxVJ5G4w2-fF_fsunbn4dMzPM4HRRlWZZtPQy1vGzZ0CnFdO-Zwgopy4K1h_3jXn2q2NGZFut5WKwIjyOxEYhbM-YrnHKt1tKEOlQlE7StFZMaQDzaNJNXmqEoUE0atBwl6ssu7yDip-BOvfyWq_Qj6gXh2FyDBJ4u6TKXjmgiKbJc41rUYYOttcFJfQsJ2ZVSYO6JNLGFfknFJ8LmmGeyiBIZphk8F8CARCLA3qxzYAs30-nCEtePiN_ELbkhsMQuAAZahSiBqcVrPhe6BTCxNN75WtC6utf4FjrBe5hSnAP_PfAg5QBVzKPNn11NWrdljjNDJ9iFqdFvKvZ51Df_Y8fXqpsP43WofwGJOXgH",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ifznQnicHdBdToMwAADgeJk9jgJjhiWLCfIzySih0AJ9MdAOipQfB8rGm3fxVJ5G4w2-fF_fsunbn4dMzPM4HRRlWZZtPQy1vGzZ0CnFdO-Zwgopy4K1h_3jXn2q2NGZFut5WKwIjyOxEYhbM-YrnHKt1tKEOlQlE7StFZMaQDzaNJNXmqEoUE0atBwl6ssu7yDip-BOvfyWq_Qj6gXh2FyDBJ4u6TKXjmgiKbJc41rUYYOttcFJfQsJ2ZVSYO6JNLGFfknFJ8LmmGeyiBIZphk8F8CARCLA3qxzYAs30-nCEtePiN_ELbkhsMQuAAZahSiBqcVrPhe6BTCxNN75WtC6utf4FjrBe5hSnAP_PfAg5QBVzKPNn11NWrdljjNDJ9iFqdFvKvZ51Df_Y8fXqpsP43WofwGJOXgH",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJDYW4gYSBoYWNrYXRob24gYmUgb25saW5lPyIsImxrIjoiR2hkallXNGdhR0ZqYTJGMGFHOXVJR0psSUc5dWJHbHVaUSIsImJzIjoiYzMyT3NRb0NNUkJFc2QzS1Rnekh1WlVma01aR0NNYzEzaGRZNzhWb0ZzTUdrc0Q5dmtFUUl4eDJ3N3pITUhBQ05aSWdvU2Y3cE9LajRPd3dTbUJ4UnVfVnpsYTZ3dUFNM1pSeG1KQkNpSXU3SVRkZU5ycFRpak1TcjNLNHdQSHEyZnBtdXRxenl3WHZNZFh3WUJHWDZrNnZ1bmY5Rlg4RUdPRXdwTS1yNWdFdU1SV1BYSXhHMWROZlpidDVBUSIsImlkIjoiZmNfTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXdfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJDYW4gYSBoYWNrYXRob24gYmUgb25saW5lPyIsImxrIjoiR2hkallXNGdhR0ZqYTJGMGFHOXVJR0psSUc5dWJHbHVaUSIsImJzIjoiYzMyT3NRb0NNUkJFc2QzS1Rnekh1WlVma01aR0NNYzEzaGRZNzhWb0ZzTUdrc0Q5dmtFUUl4eDJ3N3pITUhBQ05aSWdvU2Y3cE9LajRPd3dTbUJ4UnVfVnpsYTZ3dUFNM1pSeG1KQkNpSXU3SVRkZU5ycFRpak1TcjNLNHdQSHEyZnBtdXRxenl3WHZNZFh3WUJHWDZrNnZ1bmY5Rlg4RUdPRXdwTS1yNWdFdU1SV1BYSXhHMWROZlpidDVBUSIsImlkIjoiZmNfTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXdfMSJ9"
+        },
+        {
+            "question": "Is AI allowed in hackathons?",
+            "type": "ai_overview",
+            "page_token": "VxseV3icHdBdToMwAADgeJk9SgvZzJYsJhUKw1Ec0DJ4MW1hY9IC24j8vHkXT-VpNB7ge_m-vtWlqX8ejlXfd_eNYQzD8Hhu27MqH2WrDX6fGmlIrpTgst6snlbw-SS3zn1AL-2ADrTrmB2BWKsrNyWkjiJZUoPQKxCx_eWfGwroo2CCIbHVvD8elonHPsRcjXlKLcGwK4B6IzbG4uhfhc4PAshJ1PBW4uguTRZEddfsk-iVU3UtVKSCdNwVtKfcUSgGSx7r0S0cdiodEoiU6dgku8iuUJawG7GYZu6YUVVkTPd9StUx9HxNrF2MAVhGc1UJsDbjOeu5hQBlyCy0bwY1ttyLjyKPTGGa09gjVa7XeY67pnRJl2MERUMGTn2YzQUMcW4tTvJzay3-x7bvJ91vult7_gW-wnin",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VxseV3icHdBdToMwAADgeJk9SgvZzJYsJhUKw1Ec0DJ4MW1hY9IC24j8vHkXT-VpNB7ge_m-vtWlqX8ejlXfd_eNYQzD8Hhu27MqH2WrDX6fGmlIrpTgst6snlbw-SS3zn1AL-2ADrTrmB2BWKsrNyWkjiJZUoPQKxCx_eWfGwroo2CCIbHVvD8elonHPsRcjXlKLcGwK4B6IzbG4uhfhc4PAshJ1PBW4uguTRZEddfsk-iVU3UtVKSCdNwVtKfcUSgGSx7r0S0cdiodEoiU6dgku8iuUJawG7GYZu6YUVVkTPd9StUx9HxNrF2MAVhGc1UJsDbjOeu5hQBlyCy0bwY1ttyLjyKPTGGa09gjVa7XeY67pnRJl2MERUMGTn2YzQUMcW4tTvJzay3-x7bvJ91vult7_gW-wnin",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJJcyBBSSBhbGxvd2VkIGluIGhhY2thdGhvbnM/IiwibGsiOiJHaHBwY3lCaGFTQmhiR3h2ZDJWa0lHbHVJR2hoWTJ0aGRHaHZiZyIsImJzIjoiYzMyT3NRb0NNUkJFc2QzS1Rnekh1WlVma01aR0NNYzEzaGRZNzhWb0ZzTUdrc0Q5dmtFUUl4eDJ3N3pITUhBQ05aSWdvU2Y3cE9LajRPd3dTbUJ4UnVfVnpsYTZ3dUFNM1pSeG1KQkNpSXU3SVRkZU5ycFRpak1TcjNLNHdQSHEyZnBtdXRxenl3WHZNZFh3WUJHWDZrNnZ1bmY5Rlg4RUdPRXdwTS1yNWdFdU1SV1BYSXhHMWROZlpidDVBUSIsImlkIjoiZmNfTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXdfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJJcyBBSSBhbGxvd2VkIGluIGhhY2thdGhvbnM%2FIiwibGsiOiJHaHBwY3lCaGFTQmhiR3h2ZDJWa0lHbHVJR2hoWTJ0aGRHaHZiZyIsImJzIjoiYzMyT3NRb0NNUkJFc2QzS1Rnekh1WlVma01aR0NNYzEzaGRZNzhWb0ZzTUdrc0Q5dmtFUUl4eDJ3N3pITUhBQ05aSWdvU2Y3cE9LajRPd3dTbUJ4UnVfVnpsYTZ3dUFNM1pSeG1KQkNpSXU3SVRkZU5ycFRpak1TcjNLNHdQSHEyZnBtdXRxenl3WHZNZFh3WUJHWDZrNnZ1bmY5Rlg4RUdPRXdwTS1yNWdFdU1SV1BYSXhHMWROZlpidDVBUSIsImlkIjoiZmNfTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXdfMSJ9"
+        },
+        {
+            "question": "Which hackathon is best for beginners?",
+            "type": "ai_overview",
+            "page_token": "HAFJRnicHdDbboIwGADg7GW8VA7qMhOziFJXoiCFttCbBVsV5OcwZXK427vsqfY0W_YEX_J9fUNW5j9Pj7Rp6vtiMmnbdnypqgucxrIqJsm9L-VEJgDHROaL-fNcfz3Lpf2JrfUHtnxa12xDtKDwhyBEgbTrMoxQEw3kSk08xBQqxlgcbOAea2Qnkd2pLZ554aqPdNT7udAZFzjRcpNFFvEQHGSe6grIzqeOEYC4EU7Oyu5uHhfzI5_qBKwofFvNXEOsY7Y3RaYjHoqMc8F8CsjbspsyhHHkTilMrPmRmO2vzFO0a05IgVsqJynsITRQR4d0GkcppwA2__PdjYuT0LLsVLkeldOYvxxUfjd2vGkVQr4qRaaujqW6KvMpGeQVClrUmOe1ybbSIIB7CWnsIdYols6J4Zh7M-5FOzrLx9Ic_X8u389Fs6hv1eUXKNyDnw",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HAFJRnicHdDbboIwGADg7GW8VA7qMhOziFJXoiCFttCbBVsV5OcwZXK427vsqfY0W_YEX_J9fUNW5j9Pj7Rp6vtiMmnbdnypqgucxrIqJsm9L-VEJgDHROaL-fNcfz3Lpf2JrfUHtnxa12xDtKDwhyBEgbTrMoxQEw3kSk08xBQqxlgcbOAea2Qnkd2pLZ554aqPdNT7udAZFzjRcpNFFvEQHGSe6grIzqeOEYC4EU7Oyu5uHhfzI5_qBKwofFvNXEOsY7Y3RaYjHoqMc8F8CsjbspsyhHHkTilMrPmRmO2vzFO0a05IgVsqJynsITRQR4d0GkcppwA2__PdjYuT0LLsVLkeldOYvxxUfjd2vGkVQr4qRaaujqW6KvMpGeQVClrUmOe1ybbSIIB7CWnsIdYols6J4Zh7M-5FOzrLx9Ic_X8u389Fs6hv1eUXKNyDnw",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJXaGljaCBoYWNrYXRob24gaXMgYmVzdCBmb3IgYmVnaW5uZXJzPyIsImxrIjoiR2h4aVpYTjBJR2hoWTJ0aGRHaHZiaUJtYjNJZ1ltVm5hVzV1WlhKeiIsImJzIjoiYzMyT3NRb0NNUkJFc2QzS1Rnekh1WlVma01aR0NNYzEzaGRZNzhWb0ZzTUdrc0Q5dmtFUUl4eDJ3N3pITUhBQ05aSWdvU2Y3cE9LajRPd3dTbUJ4UnVfVnpsYTZ3dUFNM1pSeG1KQkNpSXU3SVRkZU5ycFRpak1TcjNLNHdQSHEyZnBtdXRxenl3WHZNZFh3WUJHWDZrNnZ1bmY5Rlg4RUdPRXdwTS1yNWdFdU1SV1BYSXhHMWROZlpidDVBUSIsImlkIjoiZmNfTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXdfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJXaGljaCBoYWNrYXRob24gaXMgYmVzdCBmb3IgYmVnaW5uZXJzPyIsImxrIjoiR2h4aVpYTjBJR2hoWTJ0aGRHaHZiaUJtYjNJZ1ltVm5hVzV1WlhKeiIsImJzIjoiYzMyT3NRb0NNUkJFc2QzS1Rnekh1WlVma01aR0NNYzEzaGRZNzhWb0ZzTUdrc0Q5dmtFUUl4eDJ3N3pITUhBQ05aSWdvU2Y3cE9LajRPd3dTbUJ4UnVfVnpsYTZ3dUFNM1pSeG1KQkNpSXU3SVRkZU5ycFRpak1TcjNLNHdQSHEyZnBtdXRxenl3WHZNZFh3WUJHWDZrNnZ1bmY5Rlg4RUdPRXdwTS1yNWdFdU1SV1BYSXhHMWROZlpidDVBUSIsImlkIjoiZmNfTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXdfMSJ9"
+        },
+        {
+            "question": "Are online hackathons worth it?",
+            "type": "ai_overview",
+            "page_token": "BGw6tXicHdBNcpswGIDhyWWyjPlx09Qznk6wBYYEEQSS8LfpYAlsjBBqTExg17vkVDlNMt29q2fx_vtQjW4_b66nYTCX1WIxjuPdse-PqroTfbcoL5MWC1EqdShFu7r_eW__rsUavYXe5m_opdQYtiVWpqidcuAHbQzVhIJL_NyBfYx8p7BUlnM0lCi0hRW-i523qQLTVupxTLaRl1lqyQs65B3GFTJ1rDHmvlfEXIa48BtyhojNkPJATPm3W3UPNtgKFZZ0sjlKMh61UPg1BGxiPNoyl5FS4x1FJk8KpVN9AsIljoPIJYg9ldtwymZvnzKocXtx80A2MDM37iDNdj7NvhudJE6oWO75rxfZXpxnPozS91OpoZHnyJPvfZNSMouz6qiDJ0D4x4ERBPr0VJ7xWClTsoKBpGhM8v0E420trmv39v_P9Z-6G1bmtT9-AaAEg9k",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BGw6tXicHdBNcpswGIDhyWWyjPlx09Qznk6wBYYEEQSS8LfpYAlsjBBqTExg17vkVDlNMt29q2fx_vtQjW4_b66nYTCX1WIxjuPdse-PqroTfbcoL5MWC1EqdShFu7r_eW__rsUavYXe5m_opdQYtiVWpqidcuAHbQzVhIJL_NyBfYx8p7BUlnM0lCi0hRW-i523qQLTVupxTLaRl1lqyQs65B3GFTJ1rDHmvlfEXIa48BtyhojNkPJATPm3W3UPNtgKFZZ0sjlKMh61UPg1BGxiPNoyl5FS4x1FJk8KpVN9AsIljoPIJYg9ldtwymZvnzKocXtx80A2MDM37iDNdj7NvhudJE6oWO75rxfZXpxnPozS91OpoZHnyJPvfZNSMouz6qiDJ0D4x4ERBPr0VJ7xWClTsoKBpGhM8v0E420trmv39v_P9Z-6G1bmtT9-AaAEg9k",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJBcmUgb25saW5lIGhhY2thdGhvbnMgd29ydGggaXQ/IiwibGsiOiJHaDVoY21VZ2IyNXNhVzVsSUdoaFkydGhkR2h2Ym5NZ2QyOXlkR2dnYVhRIiwiYnMiOiJjMzJPc1FvQ01SQkVzZDNLVGd6SHVaVWZrTVpHQ01jMTNoZFk3OFZvRnNNR2tzRDl2a0VRSXh4Mnc3ekhNSEFDTlpJZ29TZjdwT0tqNE93d1NtQnhSdV9WemxhNnd1QU0zWlJ4bUpCQ2lJdTdJVGRlTnJwVGlqTVNyM0s0d1BIcTJmcG11dHF6eXdYdk1kWHdZQkdYNms2dnVuZjlGWDhFR09Fd3BNLXI1Z0V1TVJXUFhJeEcxZE5mWmJ0NUFRIiwiaWQiOiJmY19NOUc4YW9Pdks2LWtwdFFQdnZidjJBd18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRGZFhaRVZ6WTJGQmVrOW1WVkZxWDNCblRpMVROWFJETVZKSWFXcEhOVFF6U1ZwclowMUNObk5MT0dWVFJGaFFUekZIVlcxWVdWcFJUVXR6UTJZMlpWVm1jalJ4VEc5WGVFSjRjSFZUVjBSNFFtcFNUR1E1TFZWTVp4SVhUVGxIT0dGdlQzWkxOaTFyY0hSUlVIWjJZbll5UVhjYUlrRkVjM0k1WmxGcWFXdzVNWFZtU2pGQlIzTjRXa00wYlZGWWQxbFFVakJpVjBFIiwiZmN2IjoiMyIsImVpIjoiTTlHOGFvT3ZLNi1rcHRRUHZ2YnYyQXciLCJxYyI6IkNoRnZibXhwYm1VZ2FHRmphMkYwYUc5dWN4QUFmWHpiNHo0IiwicXVlc3Rpb24iOiJBcmUgb25saW5lIGhhY2thdGhvbnMgd29ydGggaXQ%2FIiwibGsiOiJHaDVoY21VZ2IyNXNhVzVsSUdoaFkydGhkR2h2Ym5NZ2QyOXlkR2dnYVhRIiwiYnMiOiJjMzJPc1FvQ01SQkVzZDNLVGd6SHVaVWZrTVpHQ01jMTNoZFk3OFZvRnNNR2tzRDl2a0VRSXh4Mnc3ekhNSEFDTlpJZ29TZjdwT0tqNE93d1NtQnhSdV9WemxhNnd1QU0zWlJ4bUpCQ2lJdTdJVGRlTnJwVGlqTVNyM0s0d1BIcTJmcG11dHF6eXdYdk1kWHdZQkdYNms2dnVuZjlGWDhFR09Fd3BNLXI1Z0V1TVJXUFhJeEcxZE5mWmJ0NUFRIiwiaWQiOiJmY19NOUc4YW9Pdks2LWtwdFFQdnZidjJBd18xIn0%3D"
+        }
+    ],
+    "ai_overview": {
+        "text_blocks": [
+            {
+                "type": "paragraph",
+                "snippet": "You can find and register for active online events on the Devpost Hackathons portal.",
+                "snippet_links": [
+                    {
+                        "text": "Devpost Hackathons",
+                        "link": "https://devpost.com/hackathons"
+                    }
+                ],
+                "snippet_highlighted_words": [
+                    "Devpost Hackathons portal"
+                ]
+            },
+            {
+                "type": "heading",
+                "snippet": "Current Online Hackathons (Fall 2026)"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "snippet": "Build With AI: Basics: Runs through October 26, 2026, featuring a $2,500 prize pool."
+                    },
+                    {
+                        "snippet": "AWS Communication Developer Services Agentic AI Partner Hackathon: Runs through October 28, 2026, with $40,000 in prizes."
+                    },
+                    {
+                        "snippet": "OpenCV AI Competition (powered by AWS): Runs through October 27, 2026, offering $20,250 in prizes."
+                    },
+                    {
+                        "snippet": "HackerEarth Challenges: Live coding and AI events like HackCellence and VibeCode Arena are actively running on HackerEarth Compete.",
+                        "snippet_links": [
+                            {
+                                "text": "HackerEarth Compete",
+                                "link": "https://www.hackerearth.com/challenges/hackathon/"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "heading",
+                "snippet": "Where to Find More Virtual Events"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "snippet": "Devpost: The largest hub for global software, AI, and hardware developer hackathons.",
+                        "snippet_links": [
+                            {
+                                "text": "Devpost",
+                                "link": "https://devpost.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "snippet": "Lablab.ai: Focuses entirely on fast-paced Artificial Intelligence and LLM-building challenges.",
+                        "snippet_links": [
+                            {
+                                "text": "Lablab.ai",
+                                "link": "https://lablab.ai/ai-hackathons"
+                            }
+                        ]
+                    },
+                    {
+                        "snippet": "Eventbrite Online Hackathons: Lists frequent virtual community challenges and tech-for-good datathons.",
+                        "snippet_links": [
+                            {
+                                "text": "Eventbrite Online Hackathons",
+                                "link": "https://www.eventbrite.com/d/online/free--events/hackathon/"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "If you tell me your skill level (beginner, intermediate, advanced) and your preferred tech stack (AI/ML, web dev, mobile, cloud), I can recommend the best specific hackathon for you to join."
+            }
+        ],
+        "references": [
+            {
+                "link": "https://devpost.com/hackathons",
+                "source": "devpost.com",
+                "index": 0
+            },
+            {
+                "link": "https://www.hackerearth.com/challenges/hackathon/",
+                "source": "hackerearth.com",
+                "index": 1
+            },
+            {
+                "link": "https://devpost.com/",
+                "source": "devpost.com",
+                "index": 2
+            },
+            {
+                "link": "https://lablab.ai/ai-hackathons",
+                "source": "lablab.ai",
+                "index": 3
+            },
+            {
+                "link": "https://www.eventbrite.com/d/online/free--events/hackathon/",
+                "source": "eventbrite.com",
+                "index": 4
+            },
+            {
+                "title": "New & upcoming hackathons",
+                "link": "https://devpost.com/hackathons",
+                "snippet": "Open to * RevenueCat Shipaton 2026 2 days left Jul 31 - Oct 01, 2026 $740,000 in prizes 28071 participants RevenueCat Design Gaming Mobile * OpenCV AI Competition ...",
+                "source": "Devpost",
+                "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2qkvCrROF8RQxwtV_2z5BkYm5pTcC7LQ7h7Y5H590EW2-mbvMEjuLZCQlSxh9lsManrn42IafC2sb44dubgtfYLfUDFHRE1YyCAaH",
+                "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://devpost.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 5
+            },
+            {
+                "title": "Compete - HackerEarth",
+                "link": "https://www.hackerearth.com/challenges/hackathon/",
+                "snippet": "Compete | HackerEarth Compete Sharpen your skills with coding events from top companies. Featured Company Type 1 Status 2 3 Sort Type: Hackathon Status: Upcoming S...",
+                "source": "HackerEarth",
+                "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtsok1zqbVqqY7W6xvE_roPGNwV65alL9saBeUkSMW-OyZHaChfFkLS2ziu1nsEgI69PGhnQzGH8a7yGTFkdZUmwe1uNpmy4cBUNsx",
+                "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hackerearth.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 6
+            },
+            {
+                "title": "Devpost",
+                "link": "https://devpost.com/",
+                "snippet": "Featured online hackathons * Build, Ship, Shape: Amazon Developer Hackathon 24 days left Aug 31 - Oct 23, 2026 $138,000 in prizes 21306 participants * Build With A...",
+                "source": "Devpost",
+                "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsSdtDhHjmi6EpgUbvy8n48RbIieI09zZs-icXGg9yJcaSrmKnPnhBa_5_VDa6a2Wtl2zZKNoDVvxdqdqtOr352hieWiSHy3KbEX7f",
+                "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://devpost.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 7
+            },
+            {
+                "title": "AI Hackathons - Lablab.ai",
+                "link": "https://lablab.ai/ai-hackathons",
+                "snippet": "\ud83c\udf0e Online Hackathon | \ud83d\udcbb Month-long challenge | Dates: Sep 1\u201330, 2026 | \ud83c\udfc6 $10,000 Prize Pool ($5k cash + $5k in AAI credits) A month-long online challenge run by ...",
+                "source": "Lablab.ai",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-lQcC8UKFOIi_66-9ubazAjzT215CimsbYIzntJ5yaNCg5q4OvdKnacq0-sod5Q4EaiL0hVc8TSw3peTjd9Anu9hC7Nh4HPK2GVc",
+                "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://lablab.ai&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 8
+            },
+            {
+                "title": "Free Online Hackathon Events | Eventbrite",
+                "link": "https://www.eventbrite.com/d/online/free--events/hackathon/",
+                "snippet": "Free Online Hackathon and Tech Events: 4th Annual Veeam Community Hackathon (Oct 12); AI HACKATHON M\u00c9XICO 2026 (Oct 19); InfiniSynapse Vibe Coding Hackathon 2026 (",
+                "source": "Eventbrite",
+                "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtI_RQNY6Oqto7MX6GH_AKAqz4hHTWTaiBd1hkmFKUIocB5d_8vUtjaHQcwInQKR5mjTzLxYvOmMYAtZfEhO_DvGUb_FAmpeweMpqB",
+                "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.eventbrite.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 9
+            }
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "I'm 16 and about to do my first online hackathon. Is it worth ...",
+            "link": "https://www.reddit.com/r/learnprogramming/comments/1w77gqp/im_16_and_about_to_do_my_first_online_hackathon/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFZdarXW9lxAfLLCQ5vaScJNgxmSI0UFGT8sMgpAu8F6Fvujgig2hD3G3u6Tm-mMJK_jYCusAei5UD6blC3rBNJdF4EpfKO5W1WluUDruG4qZjZKOjJ3Bu425R3s6_UkReDEdedLSa4o6BMH9y0GP15qUm03g6owtCQ1czB_DUkSutNiTp79drfv2V1O206NbFYYyh05cJWOqBCvXPNVt&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECC0QAQ&uoh=1",
+            "displayed_link": "20+ comments \u00b7 3 weeks ago",
+            "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+            "snippet": "I'm 16, from South Korea. I've been programming for a while but I've never done a hackathon. I want to enter one soon. I assumed the normal thing was ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Point of a hackathon is to find other adjacent industry people to learn from and make friends. That's just another reason online hackathons ...",
+                    "source_info_link": "https://www.reddit.com/r/learnprogramming/comments/1w77gqp/im_16_and_about_to_do_my_first_online_hackathon/",
+                    "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZaZGFyWFc5bHhBZkxMQ1E1dmFTY0pOZ3htU0kwVUZHVDhzTWdwQXU4RjZGdnVqZ2lnMmhEM0czdTZUbS1tTUpLX2pZQ3VzQWVpNVVENmJsQzNyQk5KZEY0RXBmS081VzFXbHVVRHJ1RzRxWmpaS09qSjNCdTQyNVIzczZfVWtSZURFZGVkTFNhNG82Qk1IOXkwR1AxNXFVbTAzZzZvd3RDUTFjekJfRFVrU3V0TmlUcDc5ZHJmdjJWMU8yMDZOYkZZWXloMDVjSldPcUJDdlhQTlZ0EgQaAggAGtYEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIECAAQABgAIAAqHAoGb25saW5lFQIxWEAaCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxXsc-w_GgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczLqAS9nb3RvP3VybD1DQUVTb3dFQjZ6c3dGWmRhclhXOWx4QWZMTENRNXZhU2NKTmd4bVNJMFVGR1Q4c01ncEF1OEY2RnZ1amdpZzJoRDNHM3U2VG0tbU1KS19qWUN1c0FlaTVVRDZibEMzckJOSmRGNEVwZktPNVcxV2x1VURydUc0cVpqWktPakozQnU0MjVSM3M2X1VrUmVERWRlZExTYTRvNkJNSDl5MEdQMTVxVW0wM2c2b3d0Q1ExY3pCX0RVa1N1dE5pVHA3OWRyZnYyVjFPMjA2TmJGWVl5aDA1Y0pXT3FCQ3ZYUE5WdDpMSSYjMzk7bSAxNiBhbmQgYWJvdXQgdG8gZG8gbXkgZmlyc3QgPGI-b25saW5lIGhhY2thdGhvbjwvYj4uIElzIGl0IHdvcnRoIC4uLkKfAVBvaW50IG9mIGEgaGFja2F0aG9uIGlzIHRvIDxiPmZpbmQgb3RoZXIgYWRqYWNlbnQgaW5kdXN0cnkgcGVvcGxlIHRvIGxlYXJuIGZyb20gYW5kIG1ha2UgZnJpZW5kczwvYj4uIFRoYXQmIzM5O3MganVzdCBhbm90aGVyIHJlYXNvbiBvbmxpbmUgaGFja2F0aG9ucyZuYnNwOy4uLiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZaZGFyWFc5bHhBZkxMQ1E1dmFTY0pOZ3htU0kwVUZHVDhzTWdwQXU4RjZGdnVqZ2lnMmhEM0czdTZUbS1tTUpLX2pZQ3VzQWVpNVVENmJsQzNyQk5KZEY0RXBmS081VzFXbHVVRHJ1RzRxWmpaS09qSjNCdTQyNVIzczZfVWtSZURFZGVkTFNhNG82Qk1IOXkwR1AxNXFVbTAzZzZvd3RDUTFjekJfRFVrU3V0TmlUcDc5ZHJmdjJWMU8yMDZOYkZZWXloMDVjSldPcUJDdlhQTlZ0EgQaAggAGtYEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIECAAQABgAIAAqHAoGb25saW5lFQIxWEAaCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxXsc-w_GgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczLqAS9nb3RvP3VybD1DQUVTb3dFQjZ6c3dGWmRhclhXOWx4QWZMTENRNXZhU2NKTmd4bVNJMFVGR1Q4c01ncEF1OEY2RnZ1amdpZzJoRDNHM3U2VG0tbU1KS19qWUN1c0FlaTVVRDZibEMzckJOSmRGNEVwZktPNVcxV2x1VURydUc0cVpqWktPakozQnU0MjVSM3M2X1VrUmVERWRlZExTYTRvNkJNSDl5MEdQMTVxVW0wM2c2b3d0Q1ExY3pCX0RVa1N1dE5pVHA3OWRyZnYyVjFPMjA2TmJGWVl5aDA1Y0pXT3FCQ3ZYUE5WdDpMSSYjMzk7bSAxNiBhbmQgYWJvdXQgdG8gZG8gbXkgZmlyc3QgPGI-b25saW5lIGhhY2thdGhvbjwvYj4uIElzIGl0IHdvcnRoIC4uLkKfAVBvaW50IG9mIGEgaGFja2F0aG9uIGlzIHRvIDxiPmZpbmQgb3RoZXIgYWRqYWNlbnQgaW5kdXN0cnkgcGVvcGxlIHRvIGxlYXJuIGZyb20gYW5kIG1ha2UgZnJpZW5kczwvYj4uIFRoYXQmIzM5O3MganVzdCBhbm90aGVyIHJlYXNvbiBvbmxpbmUgaGFja2F0aG9ucyZuYnNwOy4uLiICEAFIAFgAaAA",
+            "source": "Reddit \u00b7 r/learnprogramming"
+        },
+        {
+            "position": 2,
+            "title": "Interapt/Hacks",
+            "link": "https://www.hackerearth.com/challenges/hackathon/interapthacks/rules/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV1hi8SLk2eddGjshWhFP9cytAf9EJHFubME-ej3B0-_z1ToGonyBOT_EJ_rve7Y1idi9USr3O0DnlUdAft8p7QjZrbxtAGm00AkrBZJiqR5-0LR8rB_m2UdXjAklKPdKV3bVKfsgUGs83FoghGEPcY53a6SffR_pt&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECCMQAQ&uoh=1",
+            "displayed_link": "https://www.hackerearth.com \u203a ... \u203a Interapt/Hacks",
+            "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAABQBQCdASocABwAPrkurlcnIacnG_DgFwlpAAPi0zoDhyMGfzDfaHs0qMEJ5LmU3ctJKAAA_u-s-0bGcg7ZRh38X_Q7fzLotZ745WF5VOme9fo7ncvcqPOpnYcwkJAYYvbMe1rxaCfmUZjLrCmP_FLaqwx1ur29rV8C4ZnDfwRcnUiVVJ55Bn4BFMFbtiRNIBb_4gPFCirpaDWcw6ezjsbt9pSLP3R-AonLkX0A5XftmQOg8XiNyzhlKfUgPfVM6206EeChi7TnjlJqMhAAAA.webp",
+            "snippet": "Take part in the Interapt/Hacks conducted by Interapt on HackerEarth. Showcase your skills at the hackathon and win amazing prizes. Register now!",
+            "snippet_highlighted_words": [
+                "Take part in the Interapt/Hacks conducted by Interapt on HackerEarth"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Take part in the Interapt/Hacks conducted by Interapt on HackerEarth. Showcase your skills at the hackathon and win amazing prizes. Register now!",
+                    "source_info_link": "https://www.hackerearth.com/challenges/hackathon/interapthacks/rules/",
+                    "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAABQBQCdASocABwAPrkurlcnIacnG_DgFwlpAAPi0zoDhyMGfzDfaHs0qMEJ5LmU3ctJKAAA_u-s-0bGcg7ZRh38X_Q7fzLotZ745WF5VOme9fo7ncvcqPOpnYcwkJAYYvbMe1rxaCfmUZjLrCmP_FLaqwx1ur29rV8C4ZnDfwRcnUiVVJ55Bn4BFMFbtiRNIBb_4gPFCirpaDWcw6ezjsbt9pSLP3R-AonLkX0A5XftmQOg8XiNyzhlKfUgPfVM6206EeChi7TnjlJqMhAAAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFoaThTTGsyZWRkR2pzaFdoRlA5Y3l0QWY5RUpIRnViTUUtZWozQjAtX3oxVG9Hb255Qk9UX0VKX3J2ZTdZMWlkaTlVU3IzTzBEbmxVZEFmdDhwN1FqWnJieHRBR20wMEFrckJaSmlxUjUtMExSOHJCX20yVWRYakFrbEtQZEtWM2JWS2ZzZ1VHczgzRm9naEdFUGNZNTNhNlNmZlJfcHQSBBoCCAAahQQSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA4QMIABAAGAAgACocCgZvbmxpbmUV78uGQBoIaW50ZXJuZXQaA3dlYiotCgpoYWNrYXRob25zFYSLVz8aCWhhY2thdGhvbhoPaXY7cDtoYWNrYXRob25zMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFoaThTTGsyZWRkR2pzaFdoRlA5Y3l0QWY5RUpIRnViTUUtZWozQjAtX3oxVG9Hb255Qk9UX0VKX3J2ZTdZMWlkaTlVU3IzTzBEbmxVZEFmdDhwN1FqWnJieHRBR20wMEFrckJaSmlxUjUtMExSOHJCX20yVWRYakFrbEtQZEtWM2JWS2ZzZ1VHczgzRm9naEdFUGNZNTNhNlNmZlJfcHQ6NjxiPk9ubGluZSBIYWNrYXRob248L2I-IHwgSW50ZXJhcHQvSGFja3MgLSBIYWNrZXJFYXJ0aEKYATxiPlRha2UgcGFydCBpbiB0aGUgSW50ZXJhcHQvSGFja3MgY29uZHVjdGVkIGJ5IEludGVyYXB0IG9uIEhhY2tlckVhcnRoPC9iPi4gU2hvd2Nhc2UgeW91ciBza2lsbHMgYXQgdGhlIGhhY2thdGhvbiBhbmQgd2luIGFtYXppbmcgcHJpemVzLiBSZWdpc3RlciBub3chIgIQAUgAWABoAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFoaThTTGsyZWRkR2pzaFdoRlA5Y3l0QWY5RUpIRnViTUUtZWozQjAtX3oxVG9Hb255Qk9UX0VKX3J2ZTdZMWlkaTlVU3IzTzBEbmxVZEFmdDhwN1FqWnJieHRBR20wMEFrckJaSmlxUjUtMExSOHJCX20yVWRYakFrbEtQZEtWM2JWS2ZzZ1VHczgzRm9naEdFUGNZNTNhNlNmZlJfcHQSBBoCCAAahQQSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA4QMIABAAGAAgACocCgZvbmxpbmUV78uGQBoIaW50ZXJuZXQaA3dlYiotCgpoYWNrYXRob25zFYSLVz8aCWhhY2thdGhvbhoPaXY7cDtoYWNrYXRob25zMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFoaThTTGsyZWRkR2pzaFdoRlA5Y3l0QWY5RUpIRnViTUUtZWozQjAtX3oxVG9Hb255Qk9UX0VKX3J2ZTdZMWlkaTlVU3IzTzBEbmxVZEFmdDhwN1FqWnJieHRBR20wMEFrckJaSmlxUjUtMExSOHJCX20yVWRYakFrbEtQZEtWM2JWS2ZzZ1VHczgzRm9naEdFUGNZNTNhNlNmZlJfcHQ6NjxiPk9ubGluZSBIYWNrYXRob248L2I-IHwgSW50ZXJhcHQvSGFja3MgLSBIYWNrZXJFYXJ0aEKYATxiPlRha2UgcGFydCBpbiB0aGUgSW50ZXJhcHQvSGFja3MgY29uZHVjdGVkIGJ5IEludGVyYXB0IG9uIEhhY2tlckVhcnRoPC9iPi4gU2hvd2Nhc2UgeW91ciBza2lsbHMgYXQgdGhlIGhhY2thdGhvbiBhbmQgd2luIGFtYXppbmcgcHJpemVzLiBSZWdpc3RlciBub3chIgIQAUgAWABoAA",
+            "source": "HackerEarth"
+        },
+        {
+            "position": 3,
+            "title": "Developer hackathons in Florida 2026 / 2027",
+            "link": "https://dev.events/hackathons/NA/US/FL",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV0A3f4ghWS1nslt2k3qkpLMs2PrgfFWfQsMrFTaH6-4fpN42l1hfbl8uECW2S-yrLSdcFcnzW5mvKreNaCS1t1gBfPLHLo1uFfvy2SLrzRgkstDFyHwPzD6g&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECCUQAQ&uoh=1",
+            "displayed_link": "https://dev.events \u203a ... \u203a North America \u203a United States",
+            "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAACwBgCdASocABwAPtEutFooIagoGAEAGglqALD6IAX1bRBM0i9Qs54X007RYgZ6eENGiRMhDfU_2izI_RY1AAD-8keihLG3tqF8up_4V9Ov8ty9kEN_ZnOwZquAzFMylWS9QW2Icy9e5fab5gT9DUGpNcKrTzL00_biWZHql1atT61aX0_US1W-hdFejqg1CMe8EQsAp6JcZmZzDsOQnMr_EbwvmmvIMJgwFqlY3lOqj0kFFySCg9wUc8kZxqQbYSBK-hYlz4fDrbVskEBfXw8X-pngehzN1wM8Ob45TlMggwDtubpjqpbm53hh4cdrB3yXxqnNwTyEVON8pFAtfBCJF_uSedbHCuvv0P6LDIJHOiE8IUAk7WkWfuWPg-3DELfn6vmRxVjx_hH2K_f-2_-k6Qr36f0Dcvu71fOGP_EyfsU3hwCh65Jj_W2VxEzoHwsL8qv4HAVAjTlGYLJce5UeRBz2zIZ3ff2pcBOy3h0D_9SrvR37R10_BNxf2AAA.webp",
+            "snippet": "Online hackathons accessible from Florida: Tech hackathon Online ends in 3 days Jul 31 - Oct 1 , curated by tech community.",
+            "snippet_highlighted_words": [
+                "Online hackathons accessible from Florida"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Online hackathons accessible from Florida: Tech hackathon Online ends in 3 days Jul 31 - Oct 1 , curated by tech community.",
+                    "source_info_link": "https://dev.events/hackathons/NA/US/FL",
+                    "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAACwBgCdASocABwAPtEutFooIagoGAEAGglqALD6IAX1bRBM0i9Qs54X007RYgZ6eENGiRMhDfU_2izI_RY1AAD-8keihLG3tqF8up_4V9Ov8ty9kEN_ZnOwZquAzFMylWS9QW2Icy9e5fab5gT9DUGpNcKrTzL00_biWZHql1atT61aX0_US1W-hdFejqg1CMe8EQsAp6JcZmZzDsOQnMr_EbwvmmvIMJgwFqlY3lOqj0kFFySCg9wUc8kZxqQbYSBK-hYlz4fDrbVskEBfXw8X-pngehzN1wM8Ob45TlMggwDtubpjqpbm53hh4cdrB3yXxqnNwTyEVON8pFAtfBCJF_uSedbHCuvv0P6LDIJHOiE8IUAk7WkWfuWPg-3DELfn6vmRxVjx_hH2K_f-2_-k6Qr36f0Dcvu71fOGP_EyfsU3hwCh65Jj_W2VxEzoHwsL8qv4HAVAjTlGYLJce5UeRBz2zIZ3ff2pcBOy3h0D_9SrvR37R10_BNxf2AAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjBBM2Y0Z2hXUzFuc2x0MmszcWtwTE1zMlByZ2ZGV2ZRc01yRlRhSDYtNGZwTjQybDFoZmJsOHVFQ1cyUy15ckxTZGNGY256VzVtdktyZU5hQ1MxdDFnQmZQTEhMbzF1RmZ2eTJTTHJ6Umdrc3RERnlId1B6RDZnEgQaAggAGs8DEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKsDCAAQABgAIAAqHAoGb25saW5lFbJyRUAaCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxUHHphAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczKNAS9nb3RvP3VybD1DQUVTWGdIck96QVYwQTNmNGdoV1MxbnNsdDJrM3FrcExNczJQcmdmRldmUXNNckZUYUg2LTRmcE40MmwxaGZibDh1RUNXMlMteXJMU2RjRmNuelc1bXZLcmVOYUNTMXQxZ0JmUExITG8xdUZmdnkyU0xyelJna3N0REZ5SHdQekQ2Zzo_RGV2ZWxvcGVyIDxiPmhhY2thdGhvbnM8L2I-IGluIEZsb3JpZGEgMjAyNiAvIDIwMjcgLSBkZXYuZXZlbnRzQoIBPGI-T25saW5lIGhhY2thdGhvbnMgYWNjZXNzaWJsZSBmcm9tIEZsb3JpZGE8L2I-OiBUZWNoIGhhY2thdGhvbiBPbmxpbmUgZW5kcyBpbiAzIGRheXMgSnVsIDMxIC0gT2N0IDEgLCBjdXJhdGVkIGJ5IHRlY2ggY29tbXVuaXR5LiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjBBM2Y0Z2hXUzFuc2x0MmszcWtwTE1zMlByZ2ZGV2ZRc01yRlRhSDYtNGZwTjQybDFoZmJsOHVFQ1cyUy15ckxTZGNGY256VzVtdktyZU5hQ1MxdDFnQmZQTEhMbzF1RmZ2eTJTTHJ6Umdrc3RERnlId1B6RDZnEgQaAggAGs8DEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKsDCAAQABgAIAAqHAoGb25saW5lFbJyRUAaCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxUHHphAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczKNAS9nb3RvP3VybD1DQUVTWGdIck96QVYwQTNmNGdoV1MxbnNsdDJrM3FrcExNczJQcmdmRldmUXNNckZUYUg2LTRmcE40MmwxaGZibDh1RUNXMlMteXJMU2RjRmNuelc1bXZLcmVOYUNTMXQxZ0JmUExITG8xdUZmdnkyU0xyelJna3N0REZ5SHdQekQ2Zzo_RGV2ZWxvcGVyIDxiPmhhY2thdGhvbnM8L2I-IGluIEZsb3JpZGEgMjAyNiAvIDIwMjcgLSBkZXYuZXZlbnRzQoIBPGI-T25saW5lIGhhY2thdGhvbnMgYWNjZXNzaWJsZSBmcm9tIEZsb3JpZGE8L2I-OiBUZWNoIGhhY2thdGhvbiBPbmxpbmUgZW5kcyBpbiAzIGRheXMgSnVsIDMxIC0gT2N0IDEgLCBjdXJhdGVkIGJ5IHRlY2ggY29tbXVuaXR5LiICEAFIAFgAaAA",
+            "source": "dev.events"
+        },
+        {
+            "position": 4,
+            "title": "What platforms do you use to find hackathons? Here's my ...",
+            "link": "https://www.reddit.com/r/Buildathon/comments/1syyl9o/what_platforms_do_you_use_to_find_hackathons/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFb9XGHq2FNJS-x86fQ86xXo_pAnyVROuwOojDEemANwGV47ir4DQJy135UBX_6e3wDLUGUzFaT-0JDX95w70Rz5PD4uckcGNk1QcjehfL0YkJnKspC_UuftsBIGkcj1YuEPUIwAtm8nHtJ4aQLArxC2_Ez-d2tGLeYElECoX9MdqT-JAfH6hrN9UrL2Y_nxZDRO-Nf5E&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECCYQAQ&uoh=1",
+            "displayed_link": "2 comments \u00b7 5 months ago",
+            "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+            "snippet": "TAIKAI: better experience overall, especially for european based hackathons \u00b7 Devpost: biggest variety, but also the most crowded \u00b7 MLH (Major ...",
+            "snippet_highlighted_words": [
+                "TAIKAI: better experience overall"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "TAIKAI: better experience overall, especially for european based hackathons \u00b7 Devpost: biggest variety, but also the most crowded \u00b7 MLH (Major ...",
+                    "source_info_link": "https://www.reddit.com/r/Buildathon/comments/1syyl9o/what_platforms_do_you_use_to_find_hackathons/",
+                    "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZiOVhHSHEyRk5KUy14ODZmUTg2eFhvX3BBbnlWUk91d09vakRFZW1BTndHVjQ3aXI0RFFKeTEzNVVCWF82ZTN3RExVR1V6RmFULTBKRFg5NXc3MFJ6NVBENHVja2NHTmsxUWNqZWhmTDBZa0puS3NwQ19VdWZ0c0JJR2tjajFZdUVQVUl3QXRtOG5IdEo0YVFMQXJ4QzJfRXotZDJ0R0xlWUVsRUNvWDlNZHFULUpBZkg2aHJOOVVyTDJZX254WkRSTy1OZjVFEgQaAggAGtYEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIECAAQABgAIAAqHAoGb25saW5lFdbUdj8aCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxUbdZFAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGYjlYR0hxMkZOSlMteDg2ZlE4NnhYb19wQW55VlJPdXdPb2pERWVtQU53R1Y0N2lyNERRSnkxMzVVQlhfNmUzd0RMVUdVekZhVC0wSkRYOTV3NzBSejVQRDR1Y2tjR05rMVFjamVoZkwwWWtKbktzcENfVXVmdHNCSUdrY2oxWXVFUFVJd0F0bThuSHRKNGFRTEFyeEMyX0V6LWQydEdMZVlFbEVDb1g5TWRxVC1KQWZINmhyTjlVckwyWV9ueFpEUk8tTmY1RTpLV2hhdCBwbGF0Zm9ybXMgZG8geW91IHVzZSB0byBmaW5kIDxiPmhhY2thdGhvbnM8L2I-PyBIZXJlJiMzOTtzIG15IGxpc3QgLi4uQqwBPGI-VEFJS0FJOiBiZXR0ZXIgZXhwZXJpZW5jZSBvdmVyYWxsPC9iPiwgZXNwZWNpYWxseSBmb3IgZXVyb3BlYW4gYmFzZWQgaGFja2F0aG9ucyAmbWlkZG90OyBEZXZwb3N0OiBiaWdnZXN0IHZhcmlldHksIGJ1dCBhbHNvIHRoZSBtb3N0IGNyb3dkZWQgJm1pZGRvdDsgTUxIIChNYWpvciZuYnNwOy4uLiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZiOVhHSHEyRk5KUy14ODZmUTg2eFhvX3BBbnlWUk91d09vakRFZW1BTndHVjQ3aXI0RFFKeTEzNVVCWF82ZTN3RExVR1V6RmFULTBKRFg5NXc3MFJ6NVBENHVja2NHTmsxUWNqZWhmTDBZa0puS3NwQ19VdWZ0c0JJR2tjajFZdUVQVUl3QXRtOG5IdEo0YVFMQXJ4QzJfRXotZDJ0R0xlWUVsRUNvWDlNZHFULUpBZkg2aHJOOVVyTDJZX254WkRSTy1OZjVFEgQaAggAGtYEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIECAAQABgAIAAqHAoGb25saW5lFdbUdj8aCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxUbdZFAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGYjlYR0hxMkZOSlMteDg2ZlE4NnhYb19wQW55VlJPdXdPb2pERWVtQU53R1Y0N2lyNERRSnkxMzVVQlhfNmUzd0RMVUdVekZhVC0wSkRYOTV3NzBSejVQRDR1Y2tjR05rMVFjamVoZkwwWWtKbktzcENfVXVmdHNCSUdrY2oxWXVFUFVJd0F0bThuSHRKNGFRTEFyeEMyX0V6LWQydEdMZVlFbEVDb1g5TWRxVC1KQWZINmhyTjlVckwyWV9ueFpEUk8tTmY1RTpLV2hhdCBwbGF0Zm9ybXMgZG8geW91IHVzZSB0byBmaW5kIDxiPmhhY2thdGhvbnM8L2I-PyBIZXJlJiMzOTtzIG15IGxpc3QgLi4uQqwBPGI-VEFJS0FJOiBiZXR0ZXIgZXhwZXJpZW5jZSBvdmVyYWxsPC9iPiwgZXNwZWNpYWxseSBmb3IgZXVyb3BlYW4gYmFzZWQgaGFja2F0aG9ucyAmbWlkZG90OyBEZXZwb3N0OiBiaWdnZXN0IHZhcmlldHksIGJ1dCBhbHNvIHRoZSBtb3N0IGNyb3dkZWQgJm1pZGRvdDsgTUxIIChNYWpvciZuYnNwOy4uLiICEAFIAFgAaAA",
+            "source": "Reddit \u00b7 r/Buildathon",
+            "read_more_link": "https://www.reddit.com/r/Buildathon/comments/1syyl9o/what_platforms_do_you_use_to_find_hackathons/#:~:text=TAIKAI%3A%20better%20experience%20overall%2C%20especially,for%20european%20based%20hackathons&text=Devpost%3A%20biggest%20variety%2C%20but%20also,the%20most%20crowded&text=MLH%20(Major%20League%20Hacking)%3A%20great,for%20student%2Dfocused%20challenges"
+        },
+        {
+            "position": 5,
+            "title": "Which hackathons are the most friendly for beginners ...",
+            "link": "https://www.quora.com/Which-hackathons-are-the-most-friendly-for-beginners-at-programming",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFRdpqDoTHGxVYvIAD2h_-qOUsj05xvliVAjaRS5R6zA5WqV71ihTNkvUnKKnFYrTdmwrNjnGpFaLnoIIIO6vt4DyN2pYJe0Y-CiHVK1SN0XCBDyzBh9FClxxDytqS5R7xB0GRC0HPXQP7IA20R2OOzE03k39Am1X5bDFR4orePIxxEtEvgHOJNBkjXxC&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECDEQAQ&uoh=1",
+            "displayed_link": "30+ answers \u00b7 12 years ago",
+            "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+            "snippet": "Which hackathons are the most friendly for beginners at programming?",
+            "about_this_result": {
+                "source": {
+                    "description": "Google Code Jam(Advance). \u00b7 Facebook Hacker Cup(Advance Coders). \u00b7 The #1 Website for Coding Challenges \u00b7 Dashboard | HackerRank(Best for Beginners) ...",
+                    "source_info_link": "https://www.quora.com/Which-hackathons-are-the-most-friendly-for-beginners-at-programming",
+                    "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZSZHBxRG9USEd4Vll2SUFEMmhfLXFPVXNqMDV4dmxpVkFqYVJTNVI2ekE1V3FWNzFpaFROa3ZVbktLbkZZclRkbXdyTmpuR3BGYUxub0lJSU82dnQ0RHlOMnBZSmUwWS1DaUhWSzFTTjBYQ0JEeXpCaDlGQ2x4eER5dHFTNVI3eEIwR1JDMEhQWFFQN0lBMjBSMk9PekUwM2szOUFtMVg1YkRGUjRvcmVQSXh4RXRFdmdIT0pOQmtqWHhDEgQaAggAGswEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKgECAAQABgAIAAqHAoGb25saW5lFRuwXT4aCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxVLq1hAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGUmRwcURvVEhHeFZZdklBRDJoXy1xT1VzajA1eHZsaVZBamFSUzVSNnpBNVdxVjcxaWhUTmt2VW5LS25GWXJUZG13ck5qbkdwRmFMbm9JSUlPNnZ0NER5TjJwWUplMFktQ2lIVksxU04wWENCRHl6Qmg5RkNseHhEeXRxUzVSN3hCMEdSQzBIUFhRUDdJQTIwUjJPT3pFMDNrMzlBbTFYNWJERlI0b3JlUEl4eEV0RXZnSE9KTkJralh4QzpHV2hpY2ggPGI-aGFja2F0aG9uczwvYj4gYXJlIHRoZSBtb3N0IGZyaWVuZGx5IGZvciBiZWdpbm5lcnMgLi4uIC0gUXVvcmFCsgFHb29nbGUgQ29kZSBKYW0oQWR2YW5jZSkuICZtaWRkb3Q7IEZhY2Vib29rIEhhY2tlciBDdXAoQWR2YW5jZSBDb2RlcnMpLiAmbWlkZG90OyBUaGUgIzEgV2Vic2l0ZSBmb3IgQ29kaW5nIENoYWxsZW5nZXMgJm1pZGRvdDsgRGFzaGJvYXJkIHwgSGFja2VyUmFuayhCZXN0IGZvciBCZWdpbm5lcnMpJm5ic3A7Li4uIgIQAUgAWABoAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZSZHBxRG9USEd4Vll2SUFEMmhfLXFPVXNqMDV4dmxpVkFqYVJTNVI2ekE1V3FWNzFpaFROa3ZVbktLbkZZclRkbXdyTmpuR3BGYUxub0lJSU82dnQ0RHlOMnBZSmUwWS1DaUhWSzFTTjBYQ0JEeXpCaDlGQ2x4eER5dHFTNVI3eEIwR1JDMEhQWFFQN0lBMjBSMk9PekUwM2szOUFtMVg1YkRGUjRvcmVQSXh4RXRFdmdIT0pOQmtqWHhDEgQaAggAGswEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKgECAAQABgAIAAqHAoGb25saW5lFRuwXT4aCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxVLq1hAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGUmRwcURvVEhHeFZZdklBRDJoXy1xT1VzajA1eHZsaVZBamFSUzVSNnpBNVdxVjcxaWhUTmt2VW5LS25GWXJUZG13ck5qbkdwRmFMbm9JSUlPNnZ0NER5TjJwWUplMFktQ2lIVksxU04wWENCRHl6Qmg5RkNseHhEeXRxUzVSN3hCMEdSQzBIUFhRUDdJQTIwUjJPT3pFMDNrMzlBbTFYNWJERlI0b3JlUEl4eEV0RXZnSE9KTkJralh4QzpHV2hpY2ggPGI-aGFja2F0aG9uczwvYj4gYXJlIHRoZSBtb3N0IGZyaWVuZGx5IGZvciBiZWdpbm5lcnMgLi4uIC0gUXVvcmFCsgFHb29nbGUgQ29kZSBKYW0oQWR2YW5jZSkuICZtaWRkb3Q7IEZhY2Vib29rIEhhY2tlciBDdXAoQWR2YW5jZSBDb2RlcnMpLiAmbWlkZG90OyBUaGUgIzEgV2Vic2l0ZSBmb3IgQ29kaW5nIENoYWxsZW5nZXMgJm1pZGRvdDsgRGFzaGJvYXJkIHwgSGFja2VyUmFuayhCZXN0IGZvciBCZWdpbm5lcnMpJm5ic3A7Li4uIgIQAUgAWABoAA",
+            "source": "Quora"
+        },
+        {
+            "position": 6,
+            "title": "Upcoming Github Events \u00b7 community \u00b7 Discussion #186066",
+            "link": "https://github.com/orgs/community/discussions/186066",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVnD-fIiwOQ5ssqPvpIBJzY-7jAI9_krVwoLhxXMKrpmG_cIL6bQnDWj47vitnDmZe9fp0yTziwMvWjJwi0Tqi9nEmOvVu_PmNZiEFXourMM96fj1G0IBqhKH6AVHzpSBx1ePUjaI7_A&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECCQQAQ&uoh=1",
+            "displayed_link": "https://github.com \u203a orgs \u203a community \u203a discussions",
+            "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp",
+            "snippet": "Hackathons \u2014 searchable list of online and in-person hackathons worldwide. large collection of coding and tech competition listings. various online & offline ...",
+            "snippet_highlighted_words": [
+                "searchable list of online and in-person hackathons worldwide"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Hackathons \u2014 searchable list of online and in-person hackathons worldwide. large collection of coding and tech competition listings. various online & offline  ...",
+                    "source_info_link": "https://github.com/orgs/community/discussions/186066",
+                    "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVm5ELWZJaXdPUTVzc3FQdnBJQkp6WS03akFJOV9rclZ3b0xoeFhNS3JwbUdfY0lMNmJRbkRXajQ3dml0bkRtWmU5ZnAweVR6aXdNdldqSndpMFRxaTluRW1PdlZ1X1BtTlppRUZYb3VyTU05NmZqMUcwSUJxaEtINkFWSHpwU0J4MWVQVWphSTdfQRIEGgIIABqOBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqAwgAEAAYACAAKhwKBm9ubGluZRUBIds-GghpbnRlcm5ldBoDd2ViKi0KCmhhY2thdGhvbnMVy0TCPxoJaGFja2F0aG9uGg9pdjtwO2hhY2thdGhvbnMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWbkQtZklpd09RNXNzcVB2cElCSnpZLTdqQUk5X2tyVndvTGh4WE1LcnBtR19jSUw2YlFuRFdqNDd2aXRuRG1aZTlmcDB5VHppd012V2pKd2kwVHFpOW5FbU92VnVfUG1OWmlFRlhvdXJNTTk2ZmoxRzBJQnFoS0g2QVZIenBTQngxZVBVamFJN19BOjlVcGNvbWluZyBHaXRodWIgRXZlbnRzIMK3IGNvbW11bml0eSDCtyBEaXNjdXNzaW9uICMxODYwNjZCtAFIYWNrYXRob25zIOKAlCA8Yj5zZWFyY2hhYmxlIGxpc3Qgb2Ygb25saW5lIGFuZCBpbi1wZXJzb24gaGFja2F0aG9ucyB3b3JsZHdpZGU8L2I-LiBsYXJnZSBjb2xsZWN0aW9uIG9mIGNvZGluZyBhbmQgdGVjaCBjb21wZXRpdGlvbiBsaXN0aW5ncy4gdmFyaW91cyBvbmxpbmUgJmFtcDsgb2ZmbGluZSAmbmJzcDsuLi4iAhABSABYAGgA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVm5ELWZJaXdPUTVzc3FQdnBJQkp6WS03akFJOV9rclZ3b0xoeFhNS3JwbUdfY0lMNmJRbkRXajQ3dml0bkRtWmU5ZnAweVR6aXdNdldqSndpMFRxaTluRW1PdlZ1X1BtTlppRUZYb3VyTU05NmZqMUcwSUJxaEtINkFWSHpwU0J4MWVQVWphSTdfQRIEGgIIABqOBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqAwgAEAAYACAAKhwKBm9ubGluZRUBIds-GghpbnRlcm5ldBoDd2ViKi0KCmhhY2thdGhvbnMVy0TCPxoJaGFja2F0aG9uGg9pdjtwO2hhY2thdGhvbnMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWbkQtZklpd09RNXNzcVB2cElCSnpZLTdqQUk5X2tyVndvTGh4WE1LcnBtR19jSUw2YlFuRFdqNDd2aXRuRG1aZTlmcDB5VHppd012V2pKd2kwVHFpOW5FbU92VnVfUG1OWmlFRlhvdXJNTTk2ZmoxRzBJQnFoS0g2QVZIenBTQngxZVBVamFJN19BOjlVcGNvbWluZyBHaXRodWIgRXZlbnRzIMK3IGNvbW11bml0eSDCtyBEaXNjdXNzaW9uICMxODYwNjZCtAFIYWNrYXRob25zIOKAlCA8Yj5zZWFyY2hhYmxlIGxpc3Qgb2Ygb25saW5lIGFuZCBpbi1wZXJzb24gaGFja2F0aG9ucyB3b3JsZHdpZGU8L2I-LiBsYXJnZSBjb2xsZWN0aW9uIG9mIGNvZGluZyBhbmQgdGVjaCBjb21wZXRpdGlvbiBsaXN0aW5ncy4gdmFyaW91cyBvbmxpbmUgJmFtcDsgb2ZmbGluZSAmbmJzcDsuLi4iAhABSABYAGgA",
+            "source": "GitHub"
+        },
+        {
+            "position": 7,
+            "title": "Online Hackathons Usually Suck",
+            "link": "https://notebook.lachlanjc.com/2020-08-01_online_hackathons_usually_suck",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFaU7pmEsO6OqDegMSiXQO0tn6rGBT__l2Lcyjrm_hdd0UTegxUMpb87nqavbZQfvhsfhZUsm8zxoPAkWNdZLGLC_czWNjY897UwgA9t2vlv1pMVbbpOyuNk_EwJo6b-00nN1s8HDmntTDD1L1g4rw1yT41TDPoG6NRuJ4w&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECEcQAQ&uoh=1",
+            "displayed_link": "https://notebook.lachlanjc.com \u203a 2020-08-01_online_ha...",
+            "snippet": "An online hackathon can be as simple as making a quick website, a Slack workspace, a Devpost, organizing 3 Zoom calls & calling it a day.",
+            "snippet_highlighted_words": [
+                "online hackathon"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "An online hackathon can be as simple as making a quick website, a Slack workspace, a Devpost, organizing 3 Zoom calls & calling it a day.",
+                    "source_info_link": "https://notebook.lachlanjc.com/2020-08-01_online_hackathons_usually_suck"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZhVTdwbUVzTzZPcURlZ01TaVhRTzB0bjZyR0JUX19sMkxjeWpybV9oZGQwVVRlZ3hVTXBiODducWF2YlpRZnZoc2ZoWlVzbTh6eG9QQWtXTmRaTEdMQ19jeldOalk4OTdVd2dBOXQydmx2MXBNVmJicE95dU5rX0V3Sm82Yi0wMG5OMXM4SERtbnRUREQxTDFnNHJ3MXlUNDFURFBvRzZOUnVKNHcSBBoCCAAajAQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AMIABAAGAAgACocCgZvbmxpbmUV0lGiQBoIaW50ZXJuZXQaA3dlYiotCgpoYWNrYXRob25zFfj7lkAaCWhhY2thdGhvbhoPaXY7cDtoYWNrYXRob25zMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZhVTdwbUVzTzZPcURlZ01TaVhRTzB0bjZyR0JUX19sMkxjeWpybV9oZGQwVVRlZ3hVTXBiODducWF2YlpRZnZoc2ZoWlVzbTh6eG9QQWtXTmRaTEdMQ19jeldOalk4OTdVd2dBOXQydmx2MXBNVmJicE95dU5rX0V3Sm82Yi0wMG5OMXM4SERtbnRUREQxTDFnNHJ3MXlUNDFURFBvRzZOUnVKNHc6OzxiPk9ubGluZSBIYWNrYXRob25zPC9iPiBVc3VhbGx5IFN1Y2sgLSBAbGFjaGxhbmpjL25vdGVib29rQpQBQW4gPGI-b25saW5lIGhhY2thdGhvbjwvYj4gY2FuIGJlIGFzIHNpbXBsZSBhcyBtYWtpbmcgYSBxdWljayB3ZWJzaXRlLCBhIFNsYWNrIHdvcmtzcGFjZSwgYSBEZXZwb3N0LCBvcmdhbml6aW5nIDMgWm9vbSBjYWxscyAmYW1wOyBjYWxsaW5nIGl0IGEgZGF5LiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZhVTdwbUVzTzZPcURlZ01TaVhRTzB0bjZyR0JUX19sMkxjeWpybV9oZGQwVVRlZ3hVTXBiODducWF2YlpRZnZoc2ZoWlVzbTh6eG9QQWtXTmRaTEdMQ19jeldOalk4OTdVd2dBOXQydmx2MXBNVmJicE95dU5rX0V3Sm82Yi0wMG5OMXM4SERtbnRUREQxTDFnNHJ3MXlUNDFURFBvRzZOUnVKNHcSBBoCCAAajAQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AMIABAAGAAgACocCgZvbmxpbmUV0lGiQBoIaW50ZXJuZXQaA3dlYiotCgpoYWNrYXRob25zFfj7lkAaCWhhY2thdGhvbhoPaXY7cDtoYWNrYXRob25zMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZhVTdwbUVzTzZPcURlZ01TaVhRTzB0bjZyR0JUX19sMkxjeWpybV9oZGQwVVRlZ3hVTXBiODducWF2YlpRZnZoc2ZoWlVzbTh6eG9QQWtXTmRaTEdMQ19jeldOalk4OTdVd2dBOXQydmx2MXBNVmJicE95dU5rX0V3Sm82Yi0wMG5OMXM4SERtbnRUREQxTDFnNHJ3MXlUNDFURFBvRzZOUnVKNHc6OzxiPk9ubGluZSBIYWNrYXRob25zPC9iPiBVc3VhbGx5IFN1Y2sgLSBAbGFjaGxhbmpjL25vdGVib29rQpQBQW4gPGI-b25saW5lIGhhY2thdGhvbjwvYj4gY2FuIGJlIGFzIHNpbXBsZSBhcyBtYWtpbmcgYSBxdWljayB3ZWJzaXRlLCBhIFNsYWNrIHdvcmtzcGFjZSwgYSBEZXZwb3N0LCBvcmdhbml6aW5nIDMgWm9vbSBjYWxscyAmYW1wOyBjYWxsaW5nIGl0IGEgZGF5LiICEAFIAFgAaAA",
+            "source": "Lachlan Campbell"
+        },
+        {
+            "position": 8,
+            "title": "Online Hackathons and Ideathons",
+            "link": "https://resources.mettl.com/topics/online-hackathons-and-ideathons/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVifIFby4-KoIb-XkXODNmpheCxR0ItFv95iCmCwCSuEl_sYvnR7NjqXOEhpT8ddlH5yW6OCh-a4aUGGl4pw_PpMymnVnoCshydiun6npZBrNiR4S0RFLSDqf1nQB005wEmWOqcy2I2JHbenrajOUpraoX_60NKA&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECEUQAQ&uoh=1",
+            "displayed_link": "https://resources.mettl.com \u203a topics \u203a online-hackathons...",
+            "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglAAHy9IV9KBzP2pa-06jpMv2BX2XROzN2gAAD-77pet35_xU3342ql0PvYui7_rDxj9a7J3YqDuk9OOwkCQeD95_OyKLBN9zd7RMgfeDSJ8Xvjms03GUAmfDZ6bbWtZLl6vL1HAtDFvCDOC3HI61GvmwCET2k__hoafjnmLyIGtXm7E1lSDknr868RccQaPgv_cdV80Z5JR-Diq-ryUPc9n_K6CZeXgAA.webp",
+            "snippet": "Online hackathons solve for logistical hassles, have the potential of global outreach, and are much easier and cost-efficient to execute.",
+            "snippet_highlighted_words": [
+                "Online hackathons"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Online hackathons solve for logistical hassles, have the potential of global outreach, and are much easier and cost-efficient to execute.",
+                    "source_info_link": "https://resources.mettl.com/topics/online-hackathons-and-ideathons/",
+                    "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglAAHy9IV9KBzP2pa-06jpMv2BX2XROzN2gAAD-77pet35_xU3342ql0PvYui7_rDxj9a7J3YqDuk9OOwkCQeD95_OyKLBN9zd7RMgfeDSJ8Xvjms03GUAmfDZ6bbWtZLl6vL1HAtDFvCDOC3HI61GvmwCET2k__hoafjnmLyIGtXm7E1lSDknr868RccQaPgv_cdV80Z5JR-Diq-ryUPc9n_K6CZeXgAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmlmSUZieTQtS29JYi1Ya1hPRE5tcGhlQ3hSMEl0RnY5NWlDbUN3Q1N1RWxfc1l2blI3TmpxWE9FaHBUOGRkbEg1eVc2T0NoLWE0YVVHR2w0cHdfUHBNeW1uVm5vQ3NoeWRpdW42bnBaQnJOaVI0UzBSRkxTRHFmMW5RQjAwNXdFbVdPcWN5MkkySkhiZW5yYWpPVXByYW9YXzYwTktBEgQaAggAGogEEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOQDCAAQABgAIAAqHAoGb25saW5lFQHxokAaCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxUGxJFAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZpZklGYnk0LUtvSWItWGtYT0RObXBoZUN4UjBJdEZ2OTVpQ21Dd0NTdUVsX3NZdm5SN05qcVhPRWhwVDhkZGxINXlXNk9DaC1hNGFVR0dsNHB3X1BwTXltblZub0NzaHlkaXVuNm5wWkJyTmlSNFMwUkZMU0RxZjFuUUIwMDV3RW1XT3FjeTJJMkpIYmVucmFqT1VwcmFvWF82ME5LQTpDPGI-T25saW5lIEhhY2thdGhvbnM8L2I-IGFuZCBJZGVhdGhvbnMg4oCTIE1lcmNlciB8IE1ldHRsIFJlc291cmNlc0KQATxiPk9ubGluZSBoYWNrYXRob25zPC9iPiBzb2x2ZSBmb3IgbG9naXN0aWNhbCBoYXNzbGVzLCBoYXZlIHRoZSBwb3RlbnRpYWwgb2YgZ2xvYmFsIG91dHJlYWNoLCBhbmQgYXJlIG11Y2ggZWFzaWVyIGFuZCBjb3N0LWVmZmljaWVudCB0byBleGVjdXRlLiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmlmSUZieTQtS29JYi1Ya1hPRE5tcGhlQ3hSMEl0RnY5NWlDbUN3Q1N1RWxfc1l2blI3TmpxWE9FaHBUOGRkbEg1eVc2T0NoLWE0YVVHR2w0cHdfUHBNeW1uVm5vQ3NoeWRpdW42bnBaQnJOaVI0UzBSRkxTRHFmMW5RQjAwNXdFbVdPcWN5MkkySkhiZW5yYWpPVXByYW9YXzYwTktBEgQaAggAGogEEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOQDCAAQABgAIAAqHAoGb25saW5lFQHxokAaCGludGVybmV0GgN3ZWIqLQoKaGFja2F0aG9ucxUGxJFAGgloYWNrYXRob24aD2l2O3A7aGFja2F0aG9uczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZpZklGYnk0LUtvSWItWGtYT0RObXBoZUN4UjBJdEZ2OTVpQ21Dd0NTdUVsX3NZdm5SN05qcVhPRWhwVDhkZGxINXlXNk9DaC1hNGFVR0dsNHB3X1BwTXltblZub0NzaHlkaXVuNm5wWkJyTmlSNFMwUkZMU0RxZjFuUUIwMDV3RW1XT3FjeTJJMkpIYmVucmFqT1VwcmFvWF82ME5LQTpDPGI-T25saW5lIEhhY2thdGhvbnM8L2I-IGFuZCBJZGVhdGhvbnMg4oCTIE1lcmNlciB8IE1ldHRsIFJlc291cmNlc0KQATxiPk9ubGluZSBoYWNrYXRob25zPC9iPiBzb2x2ZSBmb3IgbG9naXN0aWNhbCBoYXNzbGVzLCBoYXZlIHRoZSBwb3RlbnRpYWwgb2YgZ2xvYmFsIG91dHJlYWNoLCBhbmQgYXJlIG11Y2ggZWFzaWVyIGFuZCBjb3N0LWVmZmljaWVudCB0byBleGVjdXRlLiICEAFIAFgAaAA",
+            "source": "Mettl"
+        },
+        {
+            "position": 9,
+            "title": "FreeCodeCamp - Online Hackathons",
+            "link": "https://forum.freecodecamp.org/t/freecodecamp-online-hackathons/4491",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAV4d07de1Cbo5HysIJJ4iBs4f80vqy9YifTSbVYWMBdgiuTuZpABtFmA803okcFU9qmVje_mD8zAmymXvFImyRWoyMeryRuPvrSRAvU9IChOxObigBzNsz37zvbvH5V313IUu2mxvaqFqYQW5oknn3ucZC6iJKkH4&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQFnoECEYQAQ&uoh=1",
+            "displayed_link": "https://forum.freecodecamp.org \u203a freecodecamp-online...",
+            "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAADQBgCdASocABwAPtEwtFooIigoGAEAGgljAMHQ8jFJbc754mcr2k4Jo32ysIVXFCHs-lX2oZebEiaTGkaCAAAA_vVnmCnzauuQ87AxamZ8GmoO9aCfXP8wWqf5wWsjHpAQ9uZ2rWw9RLJUVgrjJcCnYdgGoYkaYeUzZ_GNtyv098hjdHNjCZGDiNPS_F6ivnwQSAbMNhTY3_-wfSJjtaAskTipaqqcBa5kMOVr1jPhlv08wbyICb1URMkVSH3YzB6Ety8vzF2MXN8XnKZ-iuKZsKn73_Avnp2mh51YBLuwmP_r1MQ9yt676WjXTE-5UvjzEbiMWkBzKyLIrB6gAA.webp",
+            "date": "May 25, 2016",
+            "snippet": "FreeCodeCamp - Online Hackathons \u00b7 Small social media websites \u00b7 Online marketplaces \u00b7 Mobile apps \u00b7 Web apps. It is just an idea, if Quincy ...",
+            "snippet_highlighted_words": [
+                "FreeCodeCamp - Online Hackathons"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "FreeCodeCamp - Online Hackathons \u00b7 Small social media websites \u00b7 Online marketplaces \u00b7 Mobile apps \u00b7 Web apps. It is just an idea, if Quincy ...",
+                    "source_info_link": "https://forum.freecodecamp.org/t/freecodecamp-online-hackathons/4491",
+                    "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAADQBgCdASocABwAPtEwtFooIigoGAEAGgljAMHQ8jFJbc754mcr2k4Jo32ysIVXFCHs-lX2oZebEiaTGkaCAAAA_vVnmCnzauuQ87AxamZ8GmoO9aCfXP8wWqf5wWsjHpAQ9uZ2rWw9RLJUVgrjJcCnYdgGoYkaYeUzZ_GNtyv098hjdHNjCZGDiNPS_F6ivnwQSAbMNhTY3_-wfSJjtaAskTipaqqcBa5kMOVr1jPhlv08wbyICb1URMkVSH3YzB6Ety8vzF2MXN8XnKZ-iuKZsKn73_Avnp2mh51YBLuwmP_r1MQ9yt676WjXTE-5UvjzEbiMWkBzKyLIrB6gAA.webp"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjRkMDdkZTFDYm81SHlzSUpKNGlCczRmODB2cXk5WWlmVFNiVllXTUJkZ2l1VHVacEFCdEZtQTgwM29rY0ZVOXFtVmplX21EOHpBbXltWHZGSW15UldveU1lcnlSdVB2clNSQXZVOUlDaE94T2JpZ0J6TnN6Mzd6dmJ2SDVWMzEzSVV1Mm14dmFxRnFZUVc1b2tubjN1Y1pDNmlKS2tINBIEGgIIABqVBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDxAwgAEAAYACAAKhwKBm9ubGluZRWoNKZAGghpbnRlcm5ldBoDd2ViKi0KCmhhY2thdGhvbnMVfrqoQBoJaGFja2F0aG9uGg9pdjtwO2hhY2thdGhvbnMytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWNGQwN2RlMUNibzVIeXNJSko0aUJzNGY4MHZxeTlZaWZUU2JWWVdNQmRnaXVUdVpwQUJ0Rm1BODAzb2tjRlU5cW1WamVfbUQ4ekFteW1YdkZJbXlSV295TWVyeVJ1UHZyU1JBdlU5SUNoT3hPYmlnQnpOc3ozN3p2YnZINVYzMTNJVXUybXh2YXFGcVlRVzVva25uM3VjWkM2aUpLa0g0OidGcmVlQ29kZUNhbXAgLSA8Yj5PbmxpbmUgSGFja2F0aG9uczwvYj5CuAE8Yj5GcmVlQ29kZUNhbXAgLSBPbmxpbmUgSGFja2F0aG9uczwvYj4gJm1pZGRvdDsgU21hbGwgc29jaWFsIG1lZGlhIHdlYnNpdGVzICZtaWRkb3Q7IE9ubGluZSBtYXJrZXRwbGFjZXMgJm1pZGRvdDsgTW9iaWxlIGFwcHMgJm1pZGRvdDsgV2ViIGFwcHMuIEl0IGlzIGp1c3QgYW4gaWRlYSwgaWYgUXVpbmN5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjRkMDdkZTFDYm81SHlzSUpKNGlCczRmODB2cXk5WWlmVFNiVllXTUJkZ2l1VHVacEFCdEZtQTgwM29rY0ZVOXFtVmplX21EOHpBbXltWHZGSW15UldveU1lcnlSdVB2clNSQXZVOUlDaE94T2JpZ0J6TnN6Mzd6dmJ2SDVWMzEzSVV1Mm14dmFxRnFZUVc1b2tubjN1Y1pDNmlKS2tINBIEGgIIABqVBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDxAwgAEAAYACAAKhwKBm9ubGluZRWoNKZAGghpbnRlcm5ldBoDd2ViKi0KCmhhY2thdGhvbnMVfrqoQBoJaGFja2F0aG9uGg9pdjtwO2hhY2thdGhvbnMytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWNGQwN2RlMUNibzVIeXNJSko0aUJzNGY4MHZxeTlZaWZUU2JWWVdNQmRnaXVUdVpwQUJ0Rm1BODAzb2tjRlU5cW1WamVfbUQ4ekFteW1YdkZJbXlSV295TWVyeVJ1UHZyU1JBdlU5SUNoT3hPYmlnQnpOc3ozN3p2YnZINVYzMTNJVXUybXh2YXFGcVlRVzVva25uM3VjWkM2aUpLa0g0OidGcmVlQ29kZUNhbXAgLSA8Yj5PbmxpbmUgSGFja2F0aG9uczwvYj5CuAE8Yj5GcmVlQ29kZUNhbXAgLSBPbmxpbmUgSGFja2F0aG9uczwvYj4gJm1pZGRvdDsgU21hbGwgc29jaWFsIG1lZGlhIHdlYnNpdGVzICZtaWRkb3Q7IE9ubGluZSBtYXJrZXRwbGFjZXMgJm1pZGRvdDsgTW9iaWxlIGFwcHMgJm1pZGRvdDsgV2ViIGFwcHMuIEl0IGlzIGp1c3QgYW4gaWRlYSwgaWYgUXVpbmN5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+            "source": "The freeCodeCamp Forum",
+            "read_more_link": "https://forum.freecodecamp.org/t/freecodecamp-online-hackathons/4491#:~:text=FreeCodeCamp%20%2D%20Online%20Hackathons&text=Small%20social%20media%20websites&text=Online%20marketplaces&text=Mobile%20apps&text=Web%20apps,project%20it%20would%20be%20awesome!"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Best online hackathons",
+            "link": "https://www.google.com/search?sca_esv=9194de78227b9d0c&sxsrf=APpeQnsF-XFJFeOReZ-E20HLdlrHjnVr7g:1790759219717&q=Best+online+hackathons&sa=X&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQ1QJ6BAhDEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+online+hackathons"
+        },
+        {
+            "block_position": 1,
+            "query": "Free online hackathons",
+            "link": "https://www.google.com/search?sca_esv=9194de78227b9d0c&sxsrf=APpeQnsF-XFJFeOReZ-E20HLdlrHjnVr7g:1790759219717&q=Free+online+hackathons&sa=X&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQ1QJ6BAhEEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Free+online+hackathons"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Online+Hackathons&sca_esv=9194de78227b9d0c&sxsrf=APpeQnsF-XFJFeOReZ-E20HLdlrHjnVr7g:1790759219717&ei=M9G8aoOvK6-kptQPvvbv2Aw&start=10&sa=N&sstk=AS6-VmIMMWt2wc-NhN6sI-wh6EUA1_QFU6fOwkGa5U26aSvecfVg-lpj3JXRsQ6wXVi5PQue2QWSpI3ffHm9KaloAkXOYbAyRlCtYw&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQ8NMDegQIPxAK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Online+Hackathons&sca_esv=9194de78227b9d0c&sxsrf=APpeQnsF-XFJFeOReZ-E20HLdlrHjnVr7g:1790759219717&ei=M9G8aoOvK6-kptQPvvbv2Aw&start=10&sa=N&sstk=AS6-VmIMMWt2wc-NhN6sI-wh6EUA1_QFU6fOwkGa5U26aSvecfVg-lpj3JXRsQ6wXVi5PQue2QWSpI3ffHm9KaloAkXOYbAyRlCtYw&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQ8tMDegQIPxAE",
+            "3": "https://www.google.com/search?q=Online+Hackathons&sca_esv=9194de78227b9d0c&sxsrf=APpeQnsF-XFJFeOReZ-E20HLdlrHjnVr7g:1790759219717&ei=M9G8aoOvK6-kptQPvvbv2Aw&start=20&sa=N&sstk=AS6-VmIMMWt2wc-NhN6sI-wh6EUA1_QFU6fOwkGa5U26aSvecfVg-lpj3JXRsQ6wXVi5PQue2QWSpI3ffHm9KaloAkXOYbAyRlCtYw&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQ8tMDegQIPxAG",
+            "4": "https://www.google.com/search?q=Online+Hackathons&sca_esv=9194de78227b9d0c&sxsrf=APpeQnsF-XFJFeOReZ-E20HLdlrHjnVr7g:1790759219717&ei=M9G8aoOvK6-kptQPvvbv2Aw&start=30&sa=N&sstk=AS6-VmIMMWt2wc-NhN6sI-wh6EUA1_QFU6fOwkGa5U26aSvecfVg-lpj3JXRsQ6wXVi5PQue2QWSpI3ffHm9KaloAkXOYbAyRlCtYw&ved=2ahUKEwjDlK35-ZWXAxUvkokEHT77G8sQ8tMDegQIPxAI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Online+Hackathons&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Online+Hackathons&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Online+Hackathons&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Online+Hackathons&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Online+Hackathons&start=30"
+        }
+    }
+}
